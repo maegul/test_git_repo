@@ -1,0 +1,15 @@
+---
+title: "Example Static Website"
+author: "David Wilkinson"
+date: "12 June 2018"
+output: html_document
+---
+
+Some text here.
+
+And a figure:
+
+```{r}
+plot(mtcars$mpg ~ mtcars$disp)
+```
+
